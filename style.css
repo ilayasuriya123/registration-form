@@ -1,0 +1,38 @@
+body{
+    background:white;
+    text-align: center;
+}
+#heading{
+    height:45px;
+    width: 450px;
+    background: pink;
+    background: linear-gradient(orange,white,brown);
+    color: red;
+    margin: auto;
+    margin-top: 40px;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    border-bottom-left-radius: 45%;
+    border-bottom-right-radius: 45%;
+}
+form
+{
+    background: red;
+    color: black;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10%;
+}
+
+.sbody
+{
+    background:skyblue;
+}
+
+.sdiv
+{
+    text-align: center;
+    margin-top: 10%;
+}
